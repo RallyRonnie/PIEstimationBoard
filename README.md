@@ -1,8 +1,12 @@
-Random App Name62830
+Portfolio Item Estimation Board
 =========================
 
 ## Overview
+Rally APPSDK 2.x board app for setting PreliminaryEstimate via the columns on the board. 
 
+## Screen Shot
+
+![HTML Grid](https://raw.github.com/RallyRonnie/PIEstimationBoard/master/screenshot.png)
 
 ## License
 
